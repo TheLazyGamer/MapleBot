@@ -97,9 +97,11 @@ public class SendEmail {
 				sentMail = true; }
 			catch (MessagingException e) {
 				System.out.println("MessagingException occurred... retrying in 10 seconds");
+				logError(e);
 				sleepMode(10000); }
 			catch (Exception ex) {
 				System.out.println("Unknown exception occurred. Check log. Shutting Down");
+				ex.printStackTrace();
 				logError(ex);
 				sentMail = true; }
 		}
