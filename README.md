@@ -150,7 +150,22 @@ Change **numberToText** to your phone number and carrier. Valid carriers are bel
 | T-Mobile | number@tmomail.net |
 | US Cellular | number@email.uscc.net |
 | Verizon | number@vtext.com |
-| Virgin Mobile | number@vmobl.com |   
+| Virgin Mobile | number@vmobl.com |
+| Bell | number@txt.bell.ca |
+| Eastlink | number@txt.eastlink.ca |
+| Fido | number@fido.ca |
+| Koodo Mobile | number@msg.koodomobile.com |
+| MTS | number@text.mtsmobility.com |
+| PC Mobile | number@mobiletxt.ca |
+| Public Mobile | number@msg.telus.com |
+| Rogers | number@pcs.rogers.com |
+| Sasktel | number@sms.sasktel.com |
+| Solo Mobile | number@txt.bell.ca |
+| TBayTel | number@pcs.rogers.com |
+| TELUS | number@msg.telus.com |
+| Virgin Mobile | number@vmobile.ca |
+| WIND Mobile | number@txt.windmobile.ca |
+
 
 **Inside your Documents folder, update the following:**  
 
