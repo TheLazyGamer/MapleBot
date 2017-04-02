@@ -33,7 +33,7 @@ Kanna_Flat_MapleBot.au3 is for training at Northwest Heights. Xenon_Arcane_Maple
 
 # Setup and Instructions
 
-Unzip the package into your Documents folder
+Unzip the package, go into the MapleBot-master folder, and copy and paste all the contents into your Documents folder
 
 Your computer must have a single login (or no logins) and no password.
 
@@ -61,11 +61,12 @@ Your antivirus may affect sending email. You may need to disable your antivirus,
 |[Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) | Download | What the Twitter and Email functionality use|
 |[Javac](https://learn.yancyparedes.net/2012/03/setting-up-javac-command-on-windows-7/) | Configure | Add javac to your PATH to compile Java scripts|
 |[UAC](http://imgur.com/a/iT8Jw) | Configure | Disable UAC to start MapleStory without popups|
+|[Google Less Secure Apps](https://myaccount.google.com/lesssecureapps) | Configure | Turn on "Allow less secure apps" to enable the Java code to email you|
 |[MapleStory  shortcut](http://imgur.com/a/WmJzq) | Create | Create a shortcut for MapleStory on your desktop|
 |[Twitter Account](https://twitter.com/signup) | Sign up | Remote control functionality|
 |[Twitter Dev Creds](https://apps.twitter.com/app/new) | Create | Create an App for the tokens|
 |[Twitter for Android](https://play.google.com/store/apps/details?id=com.twitter.android&hl=en) | Download | Twitter's Android Mobile App for remote controlling the map (if you use Android)|
-|[Twitter for iOS](https://itunes.apple.com/us/app/twitter/id333903271?mt=8) | Download | Twitter's iOS Mobile App for remote controlling the map (if you use iOS)|
+|[Twitter for iOS](https://itunes.apple.com/us/app/twitter/id333903271?mt=8) | Download | Twitter's iOS Mobile App for remote controlling the map (if you use iOS)|   
 
 ### Update Code Parameters
 
@@ -164,7 +165,7 @@ Change **numberToText** to your phone number and carrier. Valid carriers are bel
 | TBayTel | number@pcs.rogers.com |
 | TELUS | number@msg.telus.com |
 | Virgin Mobile | number@vmobile.ca |
-| WIND Mobile | number@txt.windmobile.ca |
+| WIND Mobile | number@txt.windmobile.ca |   
 
 
 **Inside your Documents folder, update the following:**  
