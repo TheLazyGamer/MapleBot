@@ -819,6 +819,7 @@ Func RebootMapleBot()
 	
 	$hpNeverAppeared = 0
 	$rebootAttemptCnt = 0
+	$crashReloops = 0
 	
 	While 1
 		$bCoord = PixelSearch(400, 325, 410, 330, 0x886655, 10) ;Check if the Channel 8 is there
